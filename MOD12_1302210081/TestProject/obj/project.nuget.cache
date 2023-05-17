@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "OUqsr1krQMBO+nCKKlqrJJTgaOwV+crxnMjUl8+msw9W3VDH0eJoMu26tLdJqBz+utYKSw4laWLrdHp9B91JMQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\asus\\Documents\\TUGAS ADEK\\TP_MOD12_1302210081_Hilmifauziyyah_RDA\\TP_MOD12_1302210081\\MOD12_1302210081\\TestProject\\TestProject.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project MOD12_1302210081 is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project MOD12_1302210081 supports: net6.0-windows7.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "MOD12_1302210081",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
